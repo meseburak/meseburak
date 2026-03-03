@@ -20,12 +20,13 @@ Passionate software developer focused on building scalable and efficient applica
 ```javascript
 const burak = {
     role: "Software Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    languages: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
     frontend: ["React", "Next.js", "Vue", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Django", "Spring Boot"],
+    backend: ["Node.js", "Express", "Django", "Spring Boot", ".NET Core"],
     database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
     cloud: ["AWS", "Azure", "Docker", "Kubernetes"],
-    currentFocus: "Building scalable microservices"
+    architecture: ["Layered Architecture", "Microservices", "Clean Architecture"],
+    currentFocus: "Building scalable applications with clean architecture"
 };
 ```
 
@@ -39,11 +40,13 @@ const burak = {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
