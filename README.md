@@ -7,7 +7,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meseburak/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:burak@example.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=meseburak&label=Profile%20Views&color=00D9FF&style=flat-square)
 
 </div>
@@ -62,8 +61,6 @@ const burak = {
 Feel free to reach out for collaborations, projects, or just a chat about tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meseburak/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:burak@example.com)
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
